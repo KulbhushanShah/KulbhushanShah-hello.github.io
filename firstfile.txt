@@ -5,3 +5,7 @@ This is the first file in my new Git Repo
 This file has a minor update.
 
 This line is here to show how merging works.
+
+this is another line to showcase that I have added to make sure it reflects while creating a new branch.
+
+This the new line to show we are working with merge conflict scenarios.
