@@ -9,3 +9,7 @@ This line is here to show how merging works.
 this is another line to showcase that I have added to make sure it reflects while creating a new branch.
 
 This the new line to show we are working with merge conflict scenarios.
+
+
+
+To check the push feature. This is to push data to GitHub.
