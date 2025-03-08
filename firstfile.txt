@@ -12,4 +12,4 @@ This the new line to show we are working with merge conflict scenarios.
 
 
 
-To check the push feature. This is to push data to GitHub.
+To re-check the push feature. This is to push data to GitHub.
