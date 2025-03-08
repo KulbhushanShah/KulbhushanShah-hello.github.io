@@ -5,3 +5,6 @@ Hello World repository for Git
 
 
 Changing the content using GitHub editor.
+
+
+Changing again to see the git pull functionality.
