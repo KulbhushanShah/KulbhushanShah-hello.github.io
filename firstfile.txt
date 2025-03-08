@@ -1,3 +1,5 @@
 This is my first text file inside the Git directory.
 
 This is the first file in my new Git Repo
+
+This file has a minor update.
